@@ -14,3 +14,7 @@ allow 192.168.1.35/32; #Ranjan IP#
 allow 192.168.1.100/32; #Ashish IP#
 allow 192.168.101.3/32; #Amit IP#
 allow 103.76.139.238/32; #pankaj IP#
+
+
+##Swiss team##
+allow 31.10.172.236/32; #Lucien IP
