@@ -13,7 +13,7 @@ allow 47.9.204.150/32; #Rajnish IP#
 allow 192.168.1.35/32; #Ranjan IP#
 allow 192.168.1.100/32; #Ashish IP#
 allow 2401:4900:4176:5e72:3815:1fb5:70c1:c68a; #Ashish IP#
-allow 103.41.145.216/32; #Amit IP#
+allow 103.41.145.180/32; #Amit IP#
 allow 103.76.139.238/32; #pankaj IP#
 
 
