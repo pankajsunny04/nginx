@@ -7,7 +7,7 @@ allow 3.121.210.60/32;
 ######### add your own IP here to whitelist ########################
 ##Dev Gurgaon Team##
 
-allow 110.172.169.140/32; #Ajay IP#
+
 allow 103.82.80.196/32; #Pooja IP#
 allow 47.9.209.203/32; #Rajnish IP#
 allow 192.168.1.35/32; #Ranjan IP#
